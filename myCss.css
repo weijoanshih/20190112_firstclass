@@ -1,0 +1,16 @@
+.myH1 {
+    color: green;
+}
+
+.myClass {
+    color: red;
+}
+
+.myClass2 {
+    text-align: center;
+}
+
+#myId {
+    color: blue;
+    font-size: 30px;
+}
